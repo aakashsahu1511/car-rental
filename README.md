@@ -1,10 +1,12 @@
 
 # Car Rental App
 
-
+![Screenshot 2023-08-24 230921](https://github.com/aakashsahu1511/car-rental/assets/54810209/39b746ec-3483-45e4-a91a-fc899fe4a98a)
 
 ## About the Project
 Web-based platform for renting cars, featuring user authentication and email verification
+![Screenshot 2023-08-24 232214](https://github.com/aakashsahu1511/car-rental/assets/54810209/8ed9f07a-94ed-4fd9-a63d-6b1e02bd7a5f)
+![Screenshot 2023-08-24 232232](https://github.com/aakashsahu1511/car-rental/assets/54810209/8c995b9f-f36f-4b50-ac93-32b4887742ab)
 
 ## Getting Started
 
@@ -17,7 +19,7 @@ yarn dev
 # or
 pnpm dev
 ```
-![Screenshot 2023-08-24 230921](https://github.com/aakashsahu1511/car-rental/assets/54810209/39b746ec-3483-45e4-a91a-fc899fe4a98a)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -34,4 +36,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - MongoDB
 - Mailtrap
 - Rapid API
-- 
+  
