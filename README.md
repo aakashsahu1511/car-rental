@@ -17,6 +17,7 @@ yarn dev
 # or
 pnpm dev
 ```
+![Screenshot 2023-08-24 230921](https://github.com/aakashsahu1511/car-rental/assets/54810209/39b746ec-3483-45e4-a91a-fc899fe4a98a)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
